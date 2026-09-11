@@ -28,10 +28,6 @@ The scraped data is extracted from HTML elements using BeautifulSoup and stored 
 
 The extracted information is then cleaned, processed, and converted into a Pandas DataFrame for structured analysis.
 
-## 📂 Project File
-
-- `jyoti_BCA_NLP.ipynb` – Complete NLP and Web Scraping assessment.
-
 ## 👩‍💻 Author
 
 **Jyoti**
