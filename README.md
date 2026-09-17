@@ -1,33 +1,13 @@
-# NLP_Assessment_
+# 📚 NLP Assessment
 
-## 📌 Overview
+### 🗓️ Day 1 – Web Scraping
 
-This project is a practical **NLP Web Scraping Assessment** using Python.
+**Concepts:** Web Scraping • BeautifulSoup • `find_all()` • `find()` • `get()` • `.text` • `append()` • `split()` • Python Lists • Loops • String Manipulation • Data Extraction • Pandas DataFrame
 
-The project demonstrates how to extract and process data from web pages using **Requests and BeautifulSoup**, followed by basic text processing and data organization using Python and Pandas.
+### 🗓️ Day 2 – NLP Text Preprocessing
 
-## 🛠️ Concepts & Techniques Used
+**Concepts:** NLTK • Word Tokenization • Sentence Tokenization • Spelling Correction • PySpellChecker • TextBlob • Stop Word Removal • Punctuation Removal • `word_tokenize()` • `sent_tokenize()` • `stopwords` • Python Lists • Loops • String Manipulation • Text Preprocessing
 
-- Web Scraping
-- BeautifulSoup
-- `find_all()`
-- `find()`
-- `get()`
-- `.text`
-- `append()`
-- `split()`
-- Python Lists
-- Loops
-- String Manipulation
-- Data Extraction
-- Pandas DataFrame
+### 🎯 Learning Outcome
 
-## 📊 Data Processing
-
-The scraped data is extracted from HTML elements using BeautifulSoup and stored in Python lists.
-
-The extracted information is then cleaned, processed, and converted into a Pandas DataFrame for structured analysis.
-
-## 👩‍💻 Author
-
-**Jyoti**
+Practiced **Web Scraping and NLP Text Preprocessing using Python**, building a foundation for further NLP tasks.
